@@ -1,7 +1,8 @@
 ### Olá! Eu sou Leon guilherme 🤝
 </br>
 
-- Estudando html, css e javascript 
+- Desenvolvedor Front-end Júnior.
+- Estudando html, css e javascript com Typescript e Angular.
 - contato por e-mail: leonlopes1106@gmail.com
 
 ### Redes sociais 
@@ -14,9 +15,11 @@
 ### Tecnologias sendo praticadas 😎
 
 <div style="display: inline_block"></br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img  style="margin: 0 10px" width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  />
+  <img style="margin: 0 10px padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
+  <img style="margin: 0 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />        
+  <img style="margin: 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
+  <img style="margin: 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="50" height="50" />       
 </div> </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon0887-dev&layout=compact)](https://github.com/Leon0887-dev)
